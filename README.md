@@ -8,7 +8,7 @@ I build things at the intersection of **AI, full-stack engineering, and data sci
 
 ## 🔭 What I'm Working On
 
-**[VitalByte](https://github.com/pragatipuri)** — An AI-powered nutrition platform that analyzes blood work biomarkers to deliver personalized meal recommendations, recipe suggestions, and grocery cost optimization. Built with a multi-agent architecture (Optimization, Recipe, and Food Swap agents) targeting a 20% reduction in grocery costs.
+**[VitalByte]** — An AI-powered nutrition platform that analyzes blood work biomarkers to deliver personalized meal recommendations, recipe suggestions, and grocery cost optimization. Built with a multi-agent architecture (Optimization, Recipe, and Food Swap agents) targeting a 20% reduction in grocery costs.
 
 `TypeScript` `Next.js` `React` `Python` `LangChain` `Pandas`
 

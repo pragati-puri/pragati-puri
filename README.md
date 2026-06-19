@@ -8,7 +8,7 @@ I build things at the intersection of **AI, full-stack engineering, and data sci
 
 ## 🔭 What I'm Working On
 
-**[VitalByte]** — An AI-powered nutrition platform that analyzes blood work biomarkers to deliver personalized meal recommendations, recipe suggestions, and grocery cost optimization. Built with a multi-agent architecture (Optimization, Recipe, and Food Swap agents) targeting a 20% reduction in grocery costs.
+**VitalByte** : An AI-powered nutrition platform that analyzes blood work biomarkers to deliver personalized meal recommendations, recipe suggestions, and grocery cost optimization. Built with a multi-agent architecture (Optimization, Recipe, and Food Swap agents) targeting a 20% reduction in grocery costs.
 
 `TypeScript` `Next.js` `React` `Python` `LangChain` `Pandas`
 
@@ -17,9 +17,9 @@ I build things at the intersection of **AI, full-stack engineering, and data sci
 ## 💼 Experience
 
 **AI/ML Intern** · Alberta Machine Intelligence Institute (AMII) · AI4Good Lab, Mila *(May 2026 – Present)*
-Shipping production AI in a team — multi-agent systems, LLM orchestration, full-stack development, and responsible AI principles.
+Shipping production AI in a team ; multi-agent systems, LLM orchestration, full-stack development, and responsible AI principles.
 
-**Mentee** · Dell Technologies — Soar With Mentor Program *(Oct. 2025 – Mar. 2026)*
+**Mentee** · Dell Technologies : Soar With Mentor Program *(Oct. 2025 – Mar. 2026)*
 Earned the **Proven Professional GenAI Foundations** credential as an Engagement Prize Winner. Volunteered as a judge for Dell's *Girls Who Game* program.
 
 **Director, Women in Tech Council** · Computing Councils of Canada *(Oct. 2025 – Present)*

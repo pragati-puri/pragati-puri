@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 🎓 Computing Science student at the **University of Alberta** (Expected Graduation: Dec. 2028) · International Undergraduate Scholar
 
 I build things at the intersection of **AI, full-stack engineering, and data science** from multi-agent LLM systems to data visualization dashboards. I care about making technology accessible, inclusive, and impactful.
@@ -54,5 +53,3 @@ Managing end-to-end finances for a 1,200+ member student association.
 
 ---
 
-- ⚡ Fun fact: ...
--->

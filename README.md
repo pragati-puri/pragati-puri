@@ -16,7 +16,7 @@ I build things at the intersection of **AI, full-stack engineering, and data sci
 
 ## 💼 Experience
 
-**AI/ML Intern** · Alberta Machine Intelligence Institute (AMII) · AI4Good Lab, Mila *(May 2026 – Present)*
+**AI/ML Intern** · Alberta Machine Intelligence Institute (AMII) · AI4Good Lab, Mila *(May 2026 – June 2026)*
 Shipping production AI in a team ; multi-agent systems, LLM orchestration, full-stack development, and responsible AI principles.
 
 **Mentee** · Dell Technologies : Soar With Mentor Program *(Oct. 2025 – Mar. 2026)*
